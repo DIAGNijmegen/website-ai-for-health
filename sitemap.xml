@@ -15,6 +15,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/aimaster-interventional-mri/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/student_projects/</loc>
     <priority>1.0</priority>
   </url>
@@ -35,6 +39,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/deep-learning-lung-immune-therapy/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/home/</loc>
     <priority>1.0</priority>
   </url>
@@ -47,7 +55,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/lower-back-pain/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/phd_projects/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/postdoctoral-researcher-deep-learning/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -56,6 +72,14 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/research-software-engineer-infrastructure/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/research-software-engineer-digital-pathology/</loc>
     <priority>1.0</priority>
   </url>
   <url>
