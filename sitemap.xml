@@ -7,6 +7,14 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/projects/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/student_projects/</loc>
     <priority>1.0</priority>
   </url>
@@ -47,10 +55,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://diagnijmegen.github.io/website-ai-for-health/projects/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/</loc>
     <priority>1.0</priority>
   </url>
@@ -60,10 +64,6 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/thesis-gallery/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://diagnijmegen.github.io/website-ai-for-health/vacancies/</loc>
     <priority>1.0</priority>
   </url>
 
