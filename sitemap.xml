@@ -11,6 +11,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/meel17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mert17/</loc>
     <priority>1.0</priority>
   </url>
@@ -31,7 +35,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/kooi16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/dalm16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/pate18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree15/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -79,6 +95,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/muns19a/</loc>
     <priority>1.0</priority>
   </url>
@@ -103,7 +123,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/clau18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/litj17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/sand19a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -128,6 +156,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/beck16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/sand18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -156,6 +188,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/jaco10f/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/caba18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -231,6 +267,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/plat14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/jaco13/</loc>
     <priority>1.0</priority>
   </url>
@@ -247,11 +287,27 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube15c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/heuv16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ehte16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube15e/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/wang15a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -263,11 +319,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/plat12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/bult19a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/bult19b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube15b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -308,6 +376,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/venh17a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels18b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -459,11 +531,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/wang15b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/eerd18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/members/babak-ehteshami-bejnordi/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree16c/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -503,11 +583,35 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/maka10/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann08c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/cab18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/velt08a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/evan18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -639,11 +743,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/rodr18c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/band17/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann11/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree17/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -663,6 +775,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/kars11b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/tan12a/</loc>
     <priority>1.0</priority>
   </url>
@@ -676,6 +792,14 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ritc16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/tan15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/tan13a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -696,6 +820,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/seti15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/hups13a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -747,11 +875,27 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl16b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl15c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/contact/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/bejn17b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/velt08/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/fall16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -799,6 +943,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/less16/</loc>
     <priority>1.0</priority>
   </url>
@@ -839,6 +987,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/rodr18d/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/deba11a/</loc>
     <priority>1.0</priority>
   </url>
@@ -848,6 +1000,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/meij17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/caba18c/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -864,6 +1020,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann09b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree16a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -895,11 +1055,27 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mene18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/huis10a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/boet07/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann12b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vos12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/dalm15a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -924,6 +1100,14 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/boom12a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/wand15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/wand15c/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -967,6 +1151,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube15f/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann99/</loc>
     <priority>1.0</priority>
   </url>
@@ -980,6 +1168,14 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/litj14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels13/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/tan13e/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1011,6 +1207,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/stoi17a/</loc>
     <priority>1.0</priority>
   </url>
@@ -1024,6 +1224,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gish14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/tan13/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1059,6 +1263,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/dalm18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/venh17/</loc>
     <priority>1.0</priority>
   </url>
@@ -1088,6 +1296,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/durm14a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/schi13/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1135,6 +1347,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/kars16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/pinc19/</loc>
     <priority>1.0</priority>
   </url>
@@ -1152,6 +1368,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ciom12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl15a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1191,11 +1411,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/jaco12b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/schr18e/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl15/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1219,11 +1447,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/liu14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree18d/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/oei13/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/fuett04/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann12a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1276,6 +1516,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/deba16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/dalm15/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1364,6 +1608,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/silv18a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree15b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1479,11 +1727,31 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/emau15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/koop08/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/meeu12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ven16f/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann08/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann10e/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mus12/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1496,6 +1764,22 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ciet11/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/saad19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/goor18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/lass18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/meeu11a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1520,6 +1804,14 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/hoek09/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels18a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1615,7 +1907,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/rodr18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/erke17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gonz19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl15b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1643,6 +1947,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/caba18b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/members/patrick-brand/</loc>
     <priority>1.0</priority>
   </url>
@@ -1667,6 +1975,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/schr18d/</loc>
     <priority>1.0</priority>
   </url>
@@ -1684,6 +1996,18 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/phd_projects/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl16c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/sard16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/sard17/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1724,6 +2048,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/lens17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree16b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1979,7 +2307,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ritse_mann/</loc>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ritse-mann/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2067,11 +2395,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/lang18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vuka11/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/lief16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/tan13d/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2107,7 +2443,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://diagnijmegen.github.io/website-ai-for-health/members/ritse_mann/</loc>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/members/ritse-mann/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2175,11 +2511,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/obde14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/members/sil-van-de-leemput/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/dalm15c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/geor16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2216,6 +2560,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ciet14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/holl14/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2263,7 +2611,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels17b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/members/sven-lafebre/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/srik13/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/srik12/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2275,11 +2635,35 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/merc14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree18c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/velt10/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/jaco10e/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/melb11/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/wand17a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann10b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2291,6 +2675,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree18b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann10d/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mord18a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/ciom17/</loc>
     <priority>1.0</priority>
   </url>
@@ -2299,11 +2695,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/vree16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/arma18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/sard14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/beic16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mann08b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2312,6 +2720,14 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/members/thomas-de-bel/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mus17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/mus17a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2379,6 +2795,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/zels19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/seti17/</loc>
     <priority>1.0</priority>
   </url>
@@ -2419,7 +2839,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/wand17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/enge06a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-ai-for-health/publications/gube14/</loc>
     <priority>1.0</priority>
   </url>
   <url>
