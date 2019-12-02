@@ -39,6 +39,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.ai-for-health.nl/projects/genetic-diagnosis-rare-diseases/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.ai-for-health.nl/vacancies/avf-detection/</loc>
     <priority>1.0</priority>
   </url>
