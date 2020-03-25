@@ -194,48 +194,8 @@
     </nav>
 </div>    <div class="container">
 
-
     <h1>Publications </h1>
 
-    
-
-
-
-
-<div class="btn-group btn-group-toggle year-button-group" data-toggle="buttons">
-    </div>
-
-    </div>
-
-
-<script type="text/javascript">
-    var buttons = document.getElementsByName('year-selection');
-    var year_blocks = document.getElementsByClassName('publication-year');
-
-    for(var i = 0; i < buttons.length; i++) {
-        buttons[i].addEventListener('click', function(event) {
-        var year = this.dataset.year; 
-        var yearsplit = year.split(' ')
-        for(var b = 0; b < year_blocks.length; b++) {
-            if (yearsplit[yearsplit.length-1] == 'before'){
-                if(year_blocks[b].dataset.year <= parseInt(yearsplit[0])) {
-                    year_blocks[b].style.display = 'block';
-                } else {
-                    year_blocks[b].style.display = 'none';
-                }
-    
-            } else {
-                if(year_blocks[b].dataset.year == year) {
-                    year_blocks[b].style.display = 'block';
-                } else {
-                    year_blocks[b].style.display = 'none';
-                }
-            }
-        }
-    });
-    }
-    buttons[0].click()
-</script>
 
     </main>
 
