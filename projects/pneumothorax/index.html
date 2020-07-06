@@ -342,12 +342,11 @@
 <p>From these results, we can conclude that radiologists are still better at assessing the pneumothorax compared to our &amp; related work, but the gap is getting closer.</p>
 <h3>Unsupervised Domain Adaptation: <em>iterative self-training</em></h3>
 <p>Further, in part II, we propose an unsupervised domain adaptation method – <em>iterative self-training</em> – that improves performance on an unseen dataset without the need for additional labelling (i.e. different hospital data). These results show an increase in performance (AUC 0.82 -&gt; 0.89) for pneumothorax detection on public datasets CheXpert -&gt; SIIM. This method was submitted to MIDL 2020 as a short paper.</p>
-<p><img alt="Iterative self-training Grad-CAMs" class="img-fluid" src="/images/projects/pneumothorax_detection_UDA_results.png"/>
+<p><img alt="Iterative self-training Grad-CAMs" class="img-fluid" src="/images/projects/pneumothorax_detection_UDA_results.PNG"/>
 These class activation maps show an increase in pneumothorax localization (red outline) after <em>iterative self-training</em>.</p>
 <h3>Clinical validation</h3>
 <p>Finally, in part III we evaluate the complete pipeline including our <em>iterative self-training</em> method on a local private dataset of 28.207 images (RadboudCXR) and verify that iterative self-training successfully adapts to an unseen local dataset (AUC 0.87 -&gt; 0.92). We integrate the final algorithm using the grand-challenge platform and is publicly
-accessible for testing:
-https://grand-challenge.org/algorithms/cxr-pneumothorax-detection/</p>
+accessible for testing: <a href="https://grand-challenge.org/algorithms/cxr-pneumothorax-detection/">https://grand-challenge.org/algorithms/cxr-pneumothorax-detection/</a></p>
 <h4>Example</h4>
 <p>Here we picked a random chest radiograph where our <em>iterative self-training</em> reaped benefits.
 For this case, we have a patient that just came from surgery and is currently in the intensive care unit. A confirmatory chest radiograph is requested to check whether the surgery caused any further complications.</p>
