@@ -55,6 +55,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.ai-for-health.nl/vacancies/covid_ultrasound/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.ai-for-health.nl/vacancies/avf-detection/</loc>
     <priority>1.0</priority>
   </url>
@@ -123,11 +127,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/projects/bradykinesia/</loc>
+    <loc>https://www.ai-for-health.nl/vacancies/bradykinesia/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/vacancies/bradykinesia/</loc>
+    <loc>https://www.ai-for-health.nl/projects/bradykinesia/</loc>
     <priority>1.0</priority>
   </url>
   <url>
