@@ -6,10 +6,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/news/aifh-bulten2020/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ai-for-health.nl/news/opening-radboud-ai-for-health/</loc>
     <priority>0.8</priority>
   </url>
@@ -47,11 +43,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/vacancies/psoriasis_ai/</loc>
+    <loc>https://www.ai-for-health.nl/projects/psoriasis_ai/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/projects/psoriasis_ai/</loc>
+    <loc>https://www.ai-for-health.nl/vacancies/psoriasis_ai/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -131,11 +127,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/vacancies/bradykinesia/</loc>
+    <loc>https://www.ai-for-health.nl/projects/bradykinesia/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/projects/bradykinesia/</loc>
+    <loc>https://www.ai-for-health.nl/vacancies/bradykinesia/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -171,11 +167,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/projects/pneumothorax/</loc>
+    <loc>https://www.ai-for-health.nl/vacancies/pneumothorax/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/vacancies/pneumothorax/</loc>
+    <loc>https://www.ai-for-health.nl/projects/pneumothorax/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -207,11 +203,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/vacancies/facial-phenotyping/</loc>
+    <loc>https://www.ai-for-health.nl/projects/facial-phenotyping/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ai-for-health.nl/projects/facial-phenotyping/</loc>
+    <loc>https://www.ai-for-health.nl/vacancies/facial-phenotyping/</loc>
     <priority>1.0</priority>
   </url>
   <url>
