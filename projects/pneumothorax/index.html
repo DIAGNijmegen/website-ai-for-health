@@ -244,7 +244,7 @@
 <p>Our final models are trained on the public datasets <em>SIIM</em>, <em>Chexpert</em>, and <em>MIMIC-CXR</em>. Related work tends to struggle with the number of images containing a chest tube. We try to get rid of these chest tubes by selecting only the first study of a patient. </p>
 <p>Careful hyperparameter optimization has been done (lung masking, normalizations, LR scheduling, data augmentation, etc.). One surprising result is that lung masking does not tend to work well for pneumothorax detection. This can be attributed to the fact that global image features such as the <em>mediastinal shift</em> and <em>deep sulcus sign</em> are cropped out by the lung masking algorithm. </p>
 <p>Compared to related work, we achieve equal performance as related work by evaluating on a public dataset <em>ChestXray14</em>. Below we show the results.</p>
-<table class="table-striped table">
+<table class="table table-striped">
 <thead>
 <tr>
 <th>Research</th>
@@ -305,7 +305,7 @@
 </tbody>
 </table>
 <h4>Radiologist performance</h4>
-<table class="table-striped table">
+<table class="table table-striped">
 <thead>
 <tr>
 <th>Model</th>
